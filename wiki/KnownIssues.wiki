@@ -4,8 +4,9 @@
 
 The page lists known issues with the project.
 
+=Known Issues=
 
-= Screenshot does not work on mac =
+== Screenshot Command does not work on mac ==
 
 Issue [http://code.google.com/p/commandproxy/issues/detail?id=1 #1]
 
