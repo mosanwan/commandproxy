@@ -6,7 +6,7 @@ This page contains information on how to compile the projects.
 
 = Mac =
 
-You can compile the code on Mac using the tools included with mono.
+You can compile the code on Mac using the tools included with [http://www.mono-project.com/ mono].
 
 == cproxy ==
 
@@ -21,4 +21,3 @@ You can compile the project on Windows using either mono, or Visual Studio.
 == cproxy ==
 
 == assembly ==
-
